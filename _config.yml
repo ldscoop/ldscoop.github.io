@@ -1,16 +1,16 @@
 # Site settings
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
+title:          London Data Science Co-op
+description:    "Comunity of Data Scientists, Software and Machine Learning Engineers"
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         LDS Co-op
+  url:          https://ldscoop.github.io
+  email:        london.data.science.co.op@gmail.com
 
 # Build settings
 markdown:       kramdown
-remote_theme: chesterhow/tale
+remote_theme:   chesterhow/tale
 
 # Assets
 sass:
